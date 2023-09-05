@@ -1,0 +1,7 @@
+functions-framework==3.*
+easyllm
+huggingface_hub
+sagemaker>=2.175.0
+torch
+boto3
+dirtyjson
